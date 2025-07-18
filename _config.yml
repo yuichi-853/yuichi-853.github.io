@@ -16,7 +16,8 @@ timezone: Asia/Tokyo
 
 title: 角田 雄一 # the main title
 
-tagline: 主に音楽やLinuxについて発信しています！ # it will display as the subtitle
+tagline: 主にLinuxについて発信しています！ # it will display as the subtitle
+# tagline: 主に音楽やLinuxについて発信しています！ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
